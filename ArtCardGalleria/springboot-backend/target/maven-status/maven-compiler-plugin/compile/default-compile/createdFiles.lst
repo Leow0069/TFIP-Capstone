@@ -1,0 +1,7 @@
+springbootbackend\entity\CardGeneration.class
+springbootbackend\controller\CardController.class
+springbootbackend\serialisers\CustomSerialiser.class
+springbootbackend\repository\PokemonNameRepository.class
+springbootbackend\SpringDataJpaMariaDbApplication.class
+springbootbackend\exception\ResourceNotFoundException.class
+springbootbackend\entity\PokemonName.class

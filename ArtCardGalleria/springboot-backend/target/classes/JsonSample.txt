@@ -1,0 +1,112 @@
+
+[
+    "card details",
+    {
+        "pokemon_species": "Pikachu",
+        "power_type": "V",
+        "bought_from": "eBay",
+        "shop_name": "Tokyo1",
+        "buying_cost": 50.00,
+        "TCG_pricing": 150.00,
+        "qty_onhand": 1
+    },
+    "card details",
+    {
+        "pokemon_species": "Pikachu",
+        "power_type": "VSTAR",
+        "bought_from": "eBay",
+        "shop_name": "Tokyo1",
+        "buying_cost": 51.00,
+        "TCG_pricing": 151.00,
+        "qty_onhand": 1
+    },
+    "card details",
+    {
+        "pokemon_species": "Pikachu",
+        "power_type": "VMAX",
+        "bought_from": "eBay",
+        "shop_name": "Tokyo1",
+        "buying_cost": 52.00,
+        "TCG_pricing": 152.00,
+        "qty_onhand": 1
+    },
+    "card details",
+    {
+        "pokemon_species": "Pikachu",
+        "power_type": "EX",
+        "bought_from": "Buyee",
+        "shop_name": "Jap1",
+        "buying_cost": 53.00,
+        "TCG_pricing": 153.00,
+        "qty_onhand": 2
+    },
+    "card details",
+    {
+        "pokemon_species": "Pikachu",
+        "power_type": "VMAX",
+        "bought_from": "Carousell",
+        "shop_name": "PokeSG",
+        "buying_cost": 54.00,
+        "TCG_pricing": 154.00,
+        "qty_onhand": 3
+    },
+    "card details",
+    {
+        "pokemon_species": "Mew",
+        "power_type": "EX",
+        "bought_from": "Carousell",
+        "shop_name": "pokeSG",
+        "buying_cost": 115.00,
+        "TCG_pricing": 200.00,
+        "qty_onhand": 1
+    },
+    "card details",
+    {
+        "pokemon_species": "Mew",
+        "power_type": "EX",
+        "bought_from": "eBay",
+        "shop_name": "PKGU",
+        "buying_cost": 125.00,
+        "TCG_pricing": 200.00,
+        "qty_onhand": 1
+    },
+    "card details",
+    {
+        "pokemon_species": "Mew",
+        "power_type": "EX",
+        "bought_from": "eBay",
+        "shop_name": "PKGU",
+        "buying_cost": 130.00,
+        "TCG_pricing": 200.00,
+        "qty_onhand": 1
+    },
+    "card details",
+    {
+        "pokemon_species": "Charizard",
+        "power_type": "VSTAR",
+        "bought_from": "Mercari",
+        "shop_name": "Europe1",
+        "buying_cost": 800.00,
+        "TCG_pricing": 1000.00,
+        "qty_onhand": 1
+    }
+]
+
+
+0: {pokemon Id: 'mew001', pokemon Name: 'Mew', power Type: 'EX', card generation: 		[
+			{ "cardGenId": "1", "cardGen": "SWSH" },
+			{ "cardGenId": "2", "cardGen": "Scarlet" },
+		], details: [
+			{ "cardDetailsId": "1", "platformBought": "eBay", "priceBought": 125.00 },
+			{ "cardDetailsId": "2", "platformBought": "carousell", "priceBought": 115.00 },
+		]}
+1: {pokemon Id: 'mew002', pokemon Name: 'Mew', power Type: 'V', card generation: 		[
+			{ "cardGenId": "1", "cardGen": "SWSH" },
+			{ "cardGenId": "2", "cardGen": "Scarlet" },
+		], details: [
+			{ "cardDetailsId": "1", "platformBought": "eBay", "priceBought": 125.00 },
+			{ "cardDetailsId": "2", "platformBought": "carousell", "priceBought": 115.00 },
+		]}
+2: {pokemon Id: 'mew003', pokemon Name: 'Mew', power Type: 'VMAX', card generation: Array(0), details: Array(0)}
+3: {pokemon Id: 'mew004', pokemon Name: 'Mew', power Type: 'VSTAR', card generation: Array(0), details: Array(0)}
+4: {pokemon Id: 'mew005', pokemon Name: 'Mew', power Type: 'GX', card generation: Array(0), details: Array(0)}
